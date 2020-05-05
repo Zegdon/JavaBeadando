@@ -1,2 +1,2 @@
 # JavaBeadando
-Féléves Java feladat
+ME Java féléves beadandó Azari Csaba (BW6XDG)
